@@ -1,6 +1,7 @@
 ### NAME : CHANDRU V 
 ### REG NO : 212224230043
 ### EXPERIMENT 2
+### BOOLEAN FUNCTION MINIMIZATION
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
